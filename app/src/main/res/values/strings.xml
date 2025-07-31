@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MySampleRepoApp</string>
+    <string name="repository_list">Repository List</string>
+    <string name="detail">Detail</string>
+    <string name="add_bookmark">Add Bookmark</string>
+    <string name="retry">Retry</string>
+    <string name="error_loading_data">Error loading data</string>
+</resources>
